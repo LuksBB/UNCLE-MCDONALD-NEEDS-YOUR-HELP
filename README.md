@@ -1,1 +1,2 @@
 # UNCLE-MCDONALD-NEEDS-YOUR-HELP
+I was introduced to programming during my studies at the field of Acoustical Engineering which I chose because of my passion to audio. I found out that these two subjects can be combined and that is the reason why I created the VST Audio Plugin using C++ language for my thesis. The programming seemed to me as a great way to do something creative, developing and passionate at the same time so I decided to grow my skillset in this matter.
